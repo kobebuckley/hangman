@@ -1,7 +1,16 @@
+
 [
-    "naruto",
-    "sasuke",
-    "sakura"
-]
-
-
+    {
+      "word": "good",
+      "question": "How are you?"
+    },
+    {
+      "word": "in this town",
+      "question": "Where do you live?"
+    },
+    {
+      "word": "tim",
+      "question": "What's your name?"
+    }
+  ]
+  
